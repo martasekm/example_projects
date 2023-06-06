@@ -1,0 +1,21 @@
+[
+  {
+    "FirstName": "Pavel",
+    "LastName": "Novak",
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Description": null,
+    "Books": []
+  },
+  {
+    "FirstName": "William",
+    "LastName": "Shakespeare",
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Description": null,
+    "Books": [
+      {
+        "Title": "Romeo a Julie",
+        "Description": "Fiha tralala.",
+        "PublishYear": 1591
+      }
+    ]
+ 

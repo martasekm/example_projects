@@ -1,0 +1,7 @@
+D:\OneDrive\Plocha\MUNI\4_Semestr\PV178\pv178\FinalProject\FinalProject\bin\Release\net6.0-windows\publish\FinalProject.exe
+D:\OneDrive\Plocha\MUNI\4_Semestr\PV178\pv178\FinalProject\FinalProject\bin\Release\net6.0-windows\publish\FinalProject.dll
+D:\OneDrive\Plocha\MUNI\4_Semestr\PV178\pv178\FinalProject\FinalProject\bin\Release\net6.0-windows\publish\FinalProject.deps.json
+D:\OneDrive\Plocha\MUNI\4_Semestr\PV178\pv178\FinalProject\FinalProject\bin\Release\net6.0-windows\publish\FinalProject.runtimeconfig.json
+D:\OneDrive\Plocha\MUNI\4_Semestr\PV178\pv178\FinalProject\FinalProject\bin\Release\net6.0-windows\publish\FinalProject.pdb
+D:\OneDrive\Plocha\MUNI\4_Semestr\PV178\pv178\FinalProject\FinalProject\bin\Release\net6.0-windows\publish\Markdig.dll
+D:\OneDrive\Plocha\MUNI\4_Semestr\PV178\pv178\FinalProject\FinalProject\bin\Release\net6.0-windows\publish\Newtonsoft.Json.dll

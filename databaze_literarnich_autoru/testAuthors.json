@@ -1,0 +1,68 @@
+﻿[
+  {
+    "Id": 1,
+    "FirstName": "Karel",
+    "LastName": "Čapek",
+    "DateOfBirth": "1890-01-09T00:00:00",
+    "DateOfDeath": "1938-12-25T00:00:00",
+    "Description": "Karel Čapek (9. ledna 1890 Malé Svatoňovice – 25. prosince 1938 Praha) byl český spisovatel, intelektuál, novinář, dramatik, překladatel a amatérský fotograf. Byl mladší bratr malíře a spisovatele Josefa Čapka (1887–1945).",
+    "Books": [
+      {
+        "Id": 1,
+        "Title": "R.U.R.",
+        "Description": "(Rossum’s Universal Robots – Rossumovi Univerzální Roboti, 1920) – v tomto vědeckofantastickém dramatu poprvé zaznělo slovo robot, které Čapkovi poradil bratr Josef. Čapek zde varuje před zneužitím techniky. Továrník Rossum vyrábí dokonalé roboty, kteří jsou k nerozeznání od lidí. Roboti postupně vykonávají stále více práce a lidé postupně degenerují. Roboti se vzbouří a začnou vyvražďovat lidi, nakonec vyvraždí všechny až na starého Alquista. Robotům hrozí zánik, protože nejsou schopni vyrábět sami sebe; po Alquistovi chtějí, aby zase objevil tajemství jejich výroby. Alquist se snaží všemožně zjistit informace o konstrukci robotů, dojde i na vivisekci. Mezitím se na scéně objeví roboti z poslední série, Primus a Helena, kteří mají některé lidské vlastnosti, jež ostatním robotům chybí. Alquist zjistí, že se milují, a požehná jim jako zakladatelům nového rodu. (problém – svět zamoří roboti; spása – v lásce).",
+        "PublishYear": 1920
+      },
+      {
+        "Id": 2,
+        "Title": "Věc Makropulos",
+        "Description": "Tajemná žena Elina Makropulos prozradí, že je jí ve skutečnosti 300 let. Je dcerou alchymisty, který působil na dvoře císaře Rudolfa II. v Praze a který objevil elixír mládí. Císař mu nařídil, aby tento přípravek vyzkoušel na své dceři. Mnoho lidí jí její nesmrtelnost závidí, ale ona je unavena žitím, protože lidské bytí je těžkým údělem. Za 300 let poznala všechny lidské vlastnosti, vidí už jen něco, co se stále opakuje, což ji unavuje. Přesto se však bojí smrti. Toto Čapkovo dílo bylo kongeniálně zhudebněno Leošem Janáčkem v jeho stejnojmenné opeře, která je pravidelnou součástí repertoáru světových operních domů.",
+        "PublishYear": 1922
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "FirstName": "William",
+    "LastName": "Shakespeare",
+    "DateOfBirth": "1564-01-01T00:00:00",
+    "DateOfDeath": "1616-04-23T00:00:00",
+    "Description": "William Shakespeare (pokřtěn 26. dubna 1564, Stratford nad Avonou – 3. května 1616 podle gregoriánského kalendáře, Stratford nad Avonou) byl anglický básník, dramatik a herec, který bývá považován za největšího anglicky píšícího spisovatele a celosvětově nejvýznamnějšího dramatika. Je často nazýván anglickým národním básníkem a „bardem z Avonu“. Připisuje se mu přibližně 38 dochovaných her (včetně těch, na kterých asi s někým spolupracoval), 154 sonetů, dvě dlouhé epické básně a několik dalších básní, z nichž některé jsou nejistého autorství. Jeho hry byly přeloženy do všech hlavních živých jazyků a jsou uváděny častěji než hry jakéhokoli jiného dramatika.",
+    "Books": [
+      {
+        "Id": 1,
+        "Title": "Romeo a Julie",
+        "Description": "Romeo a Julie (Romeo and Juliet) je divadelní hra, kterou napsal William Shakespeare. Premiéru měla v roce 1595. Jedná se o milostnou tragédii, patrně jeden z nejznámějších milostných příběhů v historii světového dramatu. Při psaní příběhu vycházel Shakespeare z básně anglického básníka Arthura Brookea a také všeobecně známé látky o dvou milencích, která byla zpracována již ve starověkém Řecku.",
+        "PublishYear": 1595
+      },
+      {
+        "Id": 2,
+        "Title": "Hamlet",
+        "Description": "Tragédie o Hamletovi (z anglického The Tragedy of Hamlet, Prince of Denmark) je tragédie anglického dramatika Williama Shakespeara byla napsaná někdy mezi roky 1601 a 1602 (přesné datum není známo).",
+        "PublishYear": 1601
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "FirstName": "George Gordon",
+    "LastName": "Byron",
+    "DateOfBirth": "1788-01-22T00:00:00",
+    "DateOfDeath": "1824-04-19T00:00:00",
+    "Description": "George Gordon Noel Byron, lord Byron (22. ledna 1788 Londýn – 19. dubna 1824 Messolonghi, Řecko) byl anglický básník, filhelén a přední představitel romantismu v literatuře. Mezi jeho nejznámější díla patří Childe Haroldova pouť, žánrově byronská povídka, která zůstala nedokončena. Je považován za jednoho z největších evropských básníků.",
+    "Books": [
+      {
+        "Id": 1,
+        "Title": "Childe Haroldova Pouť",
+        "Description": "Rozsáhlá, volně komponovaná, lyricko-epická skladba o čtyřech zpěvech. Popisuje jeho putování z Anglie přes Portugalsko, Španělsko, Albánii, Turecko, Řecko a další země. Za nejlepší bývá označován zpěv třetí a čtvrtý (při psaní těchto zpěvů se setkal s Percym B. Shelleym). Dílo je do značné míry autobiografické. Hlavní hrdina je zahořklý a má k lidem odpor. Jediné, co mu ulehčuje jeho život, je neustálé putování. Romantik odešel z jistoty, putoval přírodou; začíná jako satira na rytířské romány a pokračuje jako básníkův deník. Původně se hlavní hrdina měl jmenovat Childe Burun. Tímto dílem si vydobyl slávu v literárních kruzích. Childe znamená česky panic, což byl středověký titul pro čekatele rytířství.",
+        "PublishYear": 1812
+      },
+      {
+        "Id": 2,
+        "Title": "Vězeň chillonský",
+        "Description": "Poéma, pro kterou se Byron inspiroval ve Švýcarsku, kde navštívil hrad Chillon. Zde byli vězněni političtí odpůrci. Velice působivá báseň o bratrech zmírajících za své názory a přesvědčení ve vězení. Jsou nepoddajní a nekají se, stojí si za svými činy. Postupně všichni umírají. Tato poema inspirovala K. H. Máchu.",
+        "PublishYear": 1812
+      }
+    ]
+  }
+]
