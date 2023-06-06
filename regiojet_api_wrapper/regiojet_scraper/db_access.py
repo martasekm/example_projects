@@ -5,11 +5,11 @@ from datetime import datetime, date
 from typing import List
 import regiojet_scraper.db_model as db_model
 
-DB_HOST = "sql.pythonweekend.skypicker.com"
-DB_DBNAME = "pythonweekend"
-DB_USER = "pythonweekend"
-DB_PWD = "2oggOq1e2buHENZa"
-DB_URL = f"postgresql://pythonweekend:2oggOq1e2buHENZa@sql.pythonweekend.skypicker.com/pythonweekend"
+DB_HOST = "PLACEHOLDER"
+DB_DBNAME = "PLACEHOLDER"
+DB_USER = "PLACEHOLDER"
+DB_PWD = "PLACEHOLDER"
+DB_URL = f"PLACEHOLDER"
 
 
 class DatabaseAccesser:
